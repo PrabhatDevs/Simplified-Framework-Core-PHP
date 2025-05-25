@@ -1,6 +1,6 @@
 # Simplified-Framework-Core-PHP
 
-A lightweight PHP framework for beginners.
+A lightweight and simplified Core PHP framework for beginners and custom projects.
 
 ## 🚀 Steps to Access This Framework
 
