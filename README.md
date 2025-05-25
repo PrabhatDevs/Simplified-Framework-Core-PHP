@@ -29,4 +29,4 @@ You're now ready to explore and build with the Simplified Core PHP Framework!
 MIT
 
 ## Note: 
-- **contact for issues regarding setup.**
+- **📧 Reach me for issues regarding setup.**
