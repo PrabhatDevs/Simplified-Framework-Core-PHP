@@ -1,11 +1,36 @@
 {
-    "autoload": {
-        "psr-4": {
-            "App\\": "app/",
-            "Core\\": "core/"
-        }
-    },
-    "require": {
-        "twbs/bootstrap": "5.3.3"
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "core/"
     }
+  },
+  "require": {
+    "twbs/bootstrap": "5.3.3"
+  },
+  "name": "prabhatdevs/simplified-framework-core-php",
+  "description": "A lightweight and simplified Core PHP framework designed for beginners and small/detailed projects.",
+  "type": "project",
+  "keywords": [
+    "php",
+    "core-php",
+    "php-framework",
+    "lightweight",
+    "mvc",
+    "starter",
+    "beginner-friendly",
+    "simplified",
+    "framework",
+    "web-development",
+    "php-development",
+    "open-source",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Prabhat Yadav",
+      "email": "yadavprabhat12345@gmail.com"
+    }
+  ]
 }
