@@ -7,9 +7,10 @@
    - `htdocs` (if using XAMPP)
    - `www` (if using Laragon)
 3. **Start** your local server (XAMPP or Laragon).
-4. **Open** Folder to vs code and run
+4. **Open** folder to vs code and run 👇 command in terminal
    - composer install
-6. **Open browser** and go to:  
+5. **Open browser** and go to:  
    `http://localhost/your-extracted-folder-name/`
 
 You're now ready to explore and build with the Simplified Core PHP Framework!
+
